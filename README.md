@@ -5,16 +5,8 @@
 
 </div>
 
----
-
 <!-- About Me Section with meme gif -->
 <div align="center">
 
 <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
-</div>
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
-
-</div>
